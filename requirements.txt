@@ -1,0 +1,8 @@
+gymnasium[classic-control]==0.29.1
+stable-baselines3==2.3.2
+tensorboard
+matplotlib
+numpy
+swig
+box2d-py
+gymnasium[box2d]
