@@ -4,5 +4,5 @@ tensorboard
 matplotlib
 numpy
 swig
-box2d-py
-gymnasium[box2d]
+# box2d-py
+# gymnasium[box2d]
