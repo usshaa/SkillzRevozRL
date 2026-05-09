@@ -11,7 +11,7 @@ This bundle contains five Jupyter notebooks with thorough **Markdown explanation
 - `05_Comparison.ipynb` — Train or load models and **compare** learning curves, returns.
 
 ## Quick Start
-1. Create/activate a Python 3.10+ venv.
+1. Create/activate a Python 3.10+ venv. --> python -m venv new --> new\Scripts\activate
 2. `pip install -r requirements.txt`
 3. Launch Jupyter: `jupyter lab` (or `jupyter notebook`)
 4. Open any notebook and run the cells top to bottom.
